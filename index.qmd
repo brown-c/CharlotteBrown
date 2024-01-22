@@ -1,0 +1,18 @@
+---
+title: "Charlotte Brown"
+subtitle: "NSERC Postdoctoral Fellow | Université de Sherbrooke"
+
+about:
+  template: solana
+  image: headshot.jpg
+  
+---
+
+[I am a plant ecologist who uses a blend of field observations and experiments to investigate the factors underlying the wide-ranging responses of species to environmental shifts and global change and how this variation in species responses can scale up to impact larger-scale community and ecosystem dynamics. I have worked in a diverse range of environments, including urban areas, grasslands, deserts, and forests.]{style="font-family: HelveticaNeue-Light"}
+
+[In my postdoctoral work with Dr. Mark Vellend at the Université de Sherbrooke, I am examining the climatic drivers of species' phenological shifts and how variation in species sensitivities, both in magnitude and to particular climatic events, impact current and future species interactions, flowering synchrony, and overall community structure.]{style="font-family: HelveticaNeue-Light"}
+
+
+[Before that, I was an Ike Russell Postdoctoral fellow at the University of Arizona, where I worked with Dr. Deborah Goldberg, Dr. Larry Venable, Dr. Brian Enquist, and the members of the Desert Laboratory on Tumamoc Hill to examine patterns in species sensitivities to climate and its impacts on 100+ years of community change. I completed my PhD (2021) with Dr. JC Cahill at the University of Alberta, where I used lab and field experiments to test the role of size in plant-plant interactions and species diversity. I completed my BSc (2014) at Dalhousie University, where I worked on a project examining species growth and community dynamics on green roofs in Dr. Jeremy Lundholm's lab at Saint Mary's University.]{style="font-family: HelveticaNeue-Light"}
+
+[[See here](Research.qmd) for more about my research]{style="font-family: HelveticaNeue-Light"}

@@ -1,0 +1,38 @@
+---
+title: "Research"
+---
+# Understanding the patterns and consequences of species-specific responses to global change
+[With global change, ecological communities increasingly face new and changing environments. Species exhibit marked variation in the magnitude and direction of their response to environmental change through plasticity and genetic change. Understanding these responses, whether beneficial or maladaptive, is crucial for predicting their impact on community and ecosystem dynamics. To understand the patterns and consequences of species-specific responses to environmental change, I evaluate multiple aspects of species response, including growth, demography, morphological traits, and phenology changes.  And I use a diverse range of research methods, including theory development, observational studies, field and greenhouse experiments, meta-analyses, and syntheses of global databases in a variety of systems including urban, grassland, desert, and forest environments.]{style="font-family: HelveticaNeue-Light"}
+
+[Overall, I am broadly interested in 1) how to assess the predictability of and variability in species responses to global change and 2) how species' varied responses to global change affect species interactions and community dynamics.]{style="font-family: HelveticaNeue-Light"}
+
+![Species can have variable responses to changes in their environment through global change (bottom-left). These responses can scale up to impact community processes, including species interactions and community composition (top-left), which can alter ecosystem functions (right). ](ConceptualFigure.png)
+
+
+## [**Consequences of climate change for plant species and communities**]{style="font-family: HelveticaNeue-Light"}
+
+[Anthropogenic climate change has large-scale impacts on plant communities by altering species phenology, distributions, and abundance. The dominant paradigm is to use spatial variation in climatic conditions to forecast ecological responses to future climate change. Yet, this approach can lead to incorrect estimates of the magnitude and direction of ecological response to climate due to local adaptations and non-climatic environmental factors within sites. When not substituting space for time, another method for inferring shifts in phenological events, particularly, is to utilize herbarium specimens. Although this method has advanced the field by allowing us to examine phenological shifts over multiple decades and for many species, it focuses on a singular phenological event, which limits our ability to understand the consequences of phenological shifts for community processes. Thus, a significant restriction in predicting ecological response to future climate change is a lack of long-term data. I work with long-term data sets on plant community composition and species phenology to ask questions such as:]{style="font-family: HelveticaNeue-Light"}
+
+*    [Are there general trends across species in how they respond to changes in climate?]{style="font-family: HelveticaNeue-Light"}
+*    [Are there trade-offs in species' demographic responses to climate?]{style="font-family: HelveticaNeue-Light"}
+*    [How do differential sensitivities of species to climate impact species interactions and community dynamics?]{style="font-family: HelveticaNeue-Light"}
+
+[By coupling long-term data with [an undergraduate research initiative](https://uavip.arizona.edu/teams/environment-and-resilience-teams/desert-laboratory-tumamoc-hill) to measure desert plant traits at the University of Arizona, we are asking questions such as:]{style="font-family: HelveticaNeue-Light"}
+
+*    [What are the key functional strategies used by desert plants?]{style="font-family: HelveticaNeue-Light"}
+*    [Do differential functional strategies impact desert plant species' sensitivity to climate change?]{style="font-family: HelveticaNeue-Light"}
+
+![Desert Laboratory VIP students and Dr. Deborah Goldberg in the field](VIP_all.png)
+
+
+## [**The role of plant-plant interactions in the maintenance of species diversity**]{style="font-family: HelveticaNeue-Light"}
+[Intense competition is often highlighted as a major force driving species loss; however, plant-plant interactions vary not only in strength but in direction (e.g., competition vs facilitation) and the degree of inequality (e.g., competitive size asymmetry) and transitivity. Further, the consequences of plant-plant interactions can be highly context-dependent, varying with microbial interactions and resource distributions, for example. I use field and laboratory experiments to answer questions such as:]{style="font-family: HelveticaNeue-Light"}
+
+*    [What aspects of plant-plant interactions are most associated with species loss and gain?]{style="font-family: HelveticaNeue-Light"}
+*    [How does environmental variability, in time and space, alter the consequences of plant-plant interactions?]{style="font-family: HelveticaNeue-Light"}
+*    [Under which conditions are the outcomes of plant-plant interactions predictable?]{style="font-family: HelveticaNeue-Light"}
+*    [How will future global change alter plant-plant interactions?]{style="font-family: HelveticaNeue-Light"}
+
+
+![Field assistant Kelsie Hardman taking photographs on experimental plant communities](Meso.png) 
+

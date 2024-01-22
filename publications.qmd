@@ -1,0 +1,57 @@
+---
+title: "Publications"
+---
+
+[Google Scholar](https://scholar.google.com/citations?user=B0-dMKkAAAAJ&hl=en/){style="font-family: HelveticaNeue-Light"}
+
+#### In Review
+
+[Lortie, C.J, **Brown, C.**, Filazzola, A., Haas-Desmarais, S., Lucero, J., Callaway, R., Braun, J. Dryland plant networks are more connected by invasive brome and native shrub facilitation. Scientific Reports.]{style="font-family: HelveticaNeue-Light"}
+
+[Holden, E., Salimbayeva, K., **Brown, C.**, Stotz, G., Cahill Jr, J. F. Negative plant-soil
+feedbacks of invasive species compound over time but are not helpful in aiding native plant recovery.
+Ecology]{style="font-family: HelveticaNeue-Light"}
+
+[Oppon, K., Peetoom Heida, I., **Brown, C.**, Cahill Jr, J. F. Social context affects net impact
+of soil biota on plant growth. Oikos.]{style="font-family: HelveticaNeue-Light"}
+
+
+#### Peer-reviewed
+
+[**Brown, C.**, Rodriguez-Buritica, S., Goldberg, D.E., Reichenbacher, F., Webb, R.H., Venable, L., Wilder, B.T. (In Press). 106 years of change in a Sonoran Desert plant community: impact of climate anomalies and trends in species sensitivities. Ecology.]{style="font-family: HelveticaNeue-Light"}
+
+[Radujkovic, D., \[and 35 other authors, including **Brown. C**\]. (In Press). Consistent predictors of microbial community composition across spatial scales in grasslands reveal low context-dependency. Molecular Ecology.]{style="font-family: HelveticaNeue-Light"}
+
+[Mahal, H. F., Barber-Cross, T., **Brown, C.,** Spaner, D., Cahill Jr, J. F. 2023. Changes in the amount and distribution of soil nutrients and neighbours have differential impacts on root and shoot architecture in wheat (Triticum aestivum). Plants 12(13): 2527.]{style="font-family: HelveticaNeue-Light"}
+
+[Liu, C., Groff, T., Anderson, E.\*, **Brown, C.**, Cahill Jr, J.F., Paulow L., Bennet, J. A. 2023. Effects of the invasive leafy spurge (Euphorbia esula L.) on plant community structure are altered by management history. NeoBiota 81: 157-182.]{style="font-family: HelveticaNeue-Light"}
+
+[Barber-Cross, T., Filazzola, A., **Brown, C.**, Dettlaff, M., Batbaatar, A., Grenke, J., Peetom Heida, I., Cahill Jr, J.F. 2022. A global inventory of animal biodiversity measured in different grazing treatments. Scientific Data, 9(1): 1-8.]{style="font-family: HelveticaNeue-Light"}
+
+[Smith, E.A.\*, Holden, E.M., **Brown, C.**, Cahill Jr, J.F. 2022. Disturbance has lasting effects on functional traits and diversity of grassland plant communities. PeerJ, 10:e13179 DOI 10.7717/peerj.13179.]{style="font-family: HelveticaNeue-Light"}
+
+[**Brown, C.**, Cahill Jr, J.F. 2022. Competitive size-asymmetry, not intensity, leads to short-term species loss and gain in native plant communities. Ecology, 103(6): e3675.]{style="font-family: HelveticaNeue-Light"}
+
+[Lortie, C. J., Filazzola, A., **Brown, C.**, Lucero, J. 2021. Facilitation promotes plant invasions and indirect negative interactions. Oikos, 130(7): 1056-1061.]{style="font-family: HelveticaNeue-Light"}
+
+[Davison, J., \[and 41 other authors, including **Brown. C**\]. 2021. Temperature and pH define the realized niche space of arbuscular mycorrhizal fungi. New Phytologist, 231(2): 763-776.]{style="font-family: HelveticaNeue-Light"}
+
+[Peetom Heida, I.*,* **Brown, C.,** *Dettlaff, M., Oppon, K.*, Cahill Jr., J. F. 2021. Presence of a dominant native shrub is associated with minor shifts in the function and composition of grassland communities in a northern savannah. AoB Plants, 13(2): plab011.]{style="font-family: HelveticaNeue-Light"}
+
+[**Brown, C.**, Cahill Jr, J.F. 2020. Standing vegetation as a coarse biotic filter for seedbank dynamics: effects of gap creation on seed inputs and outputs in a native grassland. Journal of Vegetation Science, 31(6): 1006-1016. Special feature: "Dispersal and establishment".]{style="font-family: HelveticaNeue-Light"}
+
+[Filazzola, A., **Brown, C.**, Westphal, M., Lortie, C. J. 2020. Establishment of a desert foundation species is limited by exotics and light but not herbivory or water. Applied Vegetation Science, 23(4): 587-597.]{style="font-family: HelveticaNeue-Light"}
+
+[Filazzola, A., **Brown, C.**, Dettlaff, M., Batbaatar, A., Grenke, J., Bao, T., Peetom-Heida, I.\*, Cahill Jr., J.F. 2020. Grazing effects on global biodiversity is multi-trophic: a meta-analysis. Ecology Letters, 23(8): 1298-1309.]{style="font-family: HelveticaNeue-Light"}
+
+[**Brown, C.**, Cahill Jr, J.F. 2019. Vertical size structure is associated with productivity and species diversity in a short-stature grassland: Evidence for the importance of height variability within herbaceous communities. Journal of Vegetation Science, 30(5): 780-798.]{style="font-family: HelveticaNeue-Light"}
+
+[**Brown, C.**, Oppon, K.J.\*, Cahill Jr, J.F. 2019. Species-specific size vulnerabilities in a competitive arena: Nutrient heterogeneity and soil fertility alter plant competitive size-asymmetries. Functional Ecology, 33(8):1491-1503.]{style="font-family: HelveticaNeue-Light"}
+
+[Chagnon, P.L., **Brown, C.**, Stotz, G., Cahill Jr, J.F. 2018. Soil biotic quality lacks spatial structure and is positively associated with fertility in a northern grassland. Journal of Ecology, 106(1): 195-206.]{style="font-family: HelveticaNeue-Light"}
+
+[**Brown, C.** & Lundholm, J. 2015. Microclimate and substrate depth influence green roof plant community dynamics. Landscape and Urban Planning, 143: 134-142.]{style="font-family: HelveticaNeue-Light"}
+
+#### Preprints
+
+[Chagnon, P.L., **Brown, C.**, Cahill Jr, J.F. 2020. Non-pathogenetic drivers of plant-soil feedbacks. Authorea Preprints.]{style="font-family: HelveticaNeue-Light"}

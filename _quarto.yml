@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Charlotte Brown"
+  search: true  
+  page-footer: "Updated January 2024 | Charlotte Brown | Made with Quarto" 
+
+  navbar:  
+    tools: 
+         - icon: envelope
+           text: email
+           href: mailto:charlotte.brown@usherbrooke.ca
+    left:
+      - text: Home
+        href: index.qmd
+      - Research.qmd
+      - publications.qmd
+      - Photos.qmd
+      - href: Brown_Charlotte_CV.pdf
+        text: CV
+
+format:
+  html:
+    theme: 
+        - litera
+        - custom.scss # This works
+    #css: styles.css
+    toc: true
+
+editor: visual
+
